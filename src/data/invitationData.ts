@@ -13,7 +13,7 @@ export const invitationData = {
     parentLine: "Son of Mr. IL. Sulaima Lebbe & Mrs. PM. Mathahira",
   },
   bride: {
-    name: "N. Fathima Zakkiya",
+    name: "S. Zakkiya",
     parentLine: "Daughter of Mr. M. Sabdeen & Mrs. MC. Rakeefa",
   },
   familyRequest:
