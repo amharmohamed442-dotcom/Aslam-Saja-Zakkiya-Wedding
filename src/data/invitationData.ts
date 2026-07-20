@@ -1,6 +1,6 @@
 export const invitationData = {
   coupleShort: {
-    groom: "S. ASLAM",
+    groom: "SLM. ASLAM",
     bride: "S. ZAKKIYA",
   },
   coupleFooter: "Aslam & Zakkiya",
@@ -9,7 +9,7 @@ export const invitationData = {
     "In the name of Allah, the Most Gracious, the Most Merciful",
   heroIntro: "We Joyfully Invite you to the Nikah Ceremony of",
   groom: {
-    name: "S. Aslam Saja",
+    name: "SLM. Aslam Saja",
     parentLine: "Son of Mr. IL. Sulaima Lebbe & Mrs. PM. Mathahira",
   },
   bride: {

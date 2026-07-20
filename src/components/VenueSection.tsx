@@ -59,7 +59,7 @@ export function VenueSection() {
               Lee Meridien Banquet Hall
             </p>
             <p className="mt-1 font-body text-sm text-ink-brown/75">
-              Ground Floor · Sainthamaruthu
+              Ground Floor · Kalmunai
             </p>
           </div>
         </div>
